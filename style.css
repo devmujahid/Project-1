@@ -1,0 +1,62 @@
+body{
+    background-image:url("bg.jpg");
+    background-position: center;
+    background-size:cover;
+    
+}
+.hr{
+    width:75%;
+}
+.page{
+    text-align: center;
+    background-color:rgba(236, 85, 213, 0.5);
+    padding:50px 0px;
+    margin:10% 20%;
+}
+#logo{
+   margin: 10% 45% auto;
+    height: 150px;
+    width: 150px;
+    margin-bottom:-70px;
+    
+}
+#name{
+  padding:5px 10px;
+  margin-top:5px;
+}
+#psw{
+    padding:5px 10px; 
+    margin-top:5px;
+}
+#login{
+font-family:sans-serif;
+font-size:15px;
+font-weight:bolder;
+    color: white;
+    margin:100%, 50%, auto;
+    margin-top:-15px;
+}
+.app{
+    font-family:sans-sarif;
+    margin-left:-100px;
+    border:none;
+}
+.psw{
+    font-family:sans-sarif;
+    margin-left:-150px;
+    border:none;
+}
+.fgt{
+    font-family:arial;
+    margin-left:100px;
+    font-size:12px;
+}
+.btn{
+font-family:fantasy;
+   background-color:black;
+   background-size:70%;
+   color:white;
+   padding: 10px 100px;
+   font-size:10px;
+   border:none;
+}
